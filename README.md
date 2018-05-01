@@ -2,7 +2,7 @@
 
 The MLP+NeuroSim framework was developed by [Prof. Shimeng Yu's group](http://faculty.engineering.asu.edu/shimengyu/) (Arizona State University). The model is made publicly available on a non-commercial basis. Copyright of the model is maintained by the developers, and the model is distributed under the terms of the [Creative Commons Attribution-NonCommercial 4.0 International Public License](http://creativecommons.org/licenses/by-nc/4.0/legalcode)
 
-This is the released version 2.0 (May 1st, 2018) for the tool. Besides analog eNVM (in MLP simulator V1.0), this version also includes some new devices: SRAM, digital eNVM (RRAM, PCM and STT-MRAM) and FeFET, an optimized weight update scheme is also introduced to reduce latency and energy in training.
+This is the released version 2.0 (May 1st, 2018) for the tool. Besides analog eNVM (in MLP simulator V1.0), this version also includes some new devices: SRAM, digital eNVM (RRAM, PCM and STT-MRAM) and FeFET, an optimized weight update scheme is introduced to reduce latency and energy in training.
 
 If you use the tool or adapt the tool in your work or publication, you are required to cite the following reference:
 
