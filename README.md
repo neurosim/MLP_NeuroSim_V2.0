@@ -4,7 +4,7 @@ The MLP+NeuroSim framework was developed by [Prof. Shimeng Yu's group](http://fa
 
 This is the released version 2.0 (May 1st, 2018) for the tool. Besides analog eNVM (in MLP simulator V1.0), this version also includes some new devices: SRAM, digital eNVM (RRAM, PCM and STT-MRAM) and FeFET, an optimized weight update scheme is introduced to reduce latency and energy in training.
 
-For algorithm **_weights range extended from (0, 1) to (-1, 1)_**, and digital eNVMs (e.g. STT-MRAM) based synaptic array with **_parallel read-out fashion_**, please go to released **_version 3.0_** (Mar. 1st, 2019) [MLP simulator (+NeuroSim) V3.0](https://github.com/neurosim/MLP_NeuroSim_V3.0). Besides, more training algorithms such as momentum method, Adagrad, RMSprop, Adam are added.
+For algorithm **_weights range extended from (0, 1) to (-1, 1)_** with more training algorithms (such as momentum method, Adagrad, RMSprop, and Adam), and digital eNVMs (e.g. STT-MRAM) based synaptic array with **_parallel read-out fashion_**, please go to released **_version 3.0_** (Mar. 1st, 2019) [MLP simulator (+NeuroSim) V3.0](https://github.com/neurosim/MLP_NeuroSim_V3.0).
 
 If you use the tool or adapt the tool in your work or publication, you are required to cite the following reference:
 
