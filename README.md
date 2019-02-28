@@ -10,6 +10,8 @@ P.-Y. Chen, X. Peng, S. Yu, ※NeuroSim+: An integrated device-to-algorithm fram
 
 If you have logiestions or comments, please contact [Pai-Yu Chen](mailto:pchen72@asu.edu) and [Xiaochen Peng](mailto:xpeng15@asu.edu).
 
+A new version 3.0 is available at https://github.com/neurosim/MLP_NeuroSim_V3.0
+
 ## File lists
 1. MATLAB fitting script: `nonlinear_fit.m`
 2. Nonlinearity-to-A table: `Documents/Nonlinearity-NormA.htm`
